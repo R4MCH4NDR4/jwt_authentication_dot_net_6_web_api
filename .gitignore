@@ -1,0 +1,133 @@
+# .NET Core
+# ------------------------
+*.swp
+*.suo
+*.user
+*.build.csdef
+*.userprefs
+*.usertasks
+*.vs
+*.vssscc
+*.vspscc
+*.dotCover
+*.dotSettings
+*.sln.ide
+*.idea
+*.resharper
+*/bin/
+*/obj/
+*/out/
+*/.vs/
+*.cache
+*.log
+*/logs/
+*.nupkg
+*.npm
+*.pfx
+*.snk
+*.log
+**/wwwroot/assets/
+**/wwwroot/css/site.css
+**/wwwroot/js/site.js
+**/wwwroot/js/site.min.js
+**/wwwroot/js/site.min.js.map
+**/wwwroot/js/site.js.map
+**/wwwroot/js/site.min.css
+**/wwwroot/js/site.min.css.map
+**/wwwroot/css/site.min.css
+**/wwwroot/css/site.min.css.map
+**/appsettings.Development.json
+**/appsettings.Staging.json
+**/appsettings.Production.json
+
+# User-specific files
+# ------------------------
+*.user
+*.userprefs
+*.suo
+*.idea
+*.sln.docstates
+*.csproj.user
+*.suo
+*.resharper
+
+# Build results
+# ------------------------
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+msbuild.log
+msbuild.err
+msbuild.wrn
+[Bb]uild/
+
+# NuGet Packages
+# ------------------------
+*.nuget.props
+*.lock.json
+project.lock.json
+*.nupkg
+packages/
+*.paket/paket.exe
+.paket/paket.exe
+paket-files/
+.paket/
+paket-files
+testresults/
+*.snupkg
+
+# StyleCop
+# ------------------------
+StyleCopReport.xml
+
+# Unit test output
+# ------------------------
+TestResults/
+
+# Visual Studio profiler
+# ------------------------
+*.psess
+*.vsp
+*.vspx
+*.sap
+*.prof
+*.coverage
+*.coveragexml
+*.csdproj
+*.coverage
+
+# Build Results of an ATL Project
+# ------------------------
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# Temporary files
+# ------------------------
+*_wpftmp.cs
+*.pidb
+*.userprefs
+*.docstates
+
+# Click-Once and Installer logs
+# ------------------------
+publish/
+*.publish.xml
+*.publish
+*.deploy
+
+# Visual Studio cache files
+# ------------------------
+# See https://github.com/github/gitignore/pull/1529
+# This ignores the .vs/ folder which is normally a personal settings file for each user.
+# History shows that some versions of Visual Studio will cause build errors when building projects with git-sourced dependencies if this folder exists.
+/.vs
+
+# End of .gitignore file
